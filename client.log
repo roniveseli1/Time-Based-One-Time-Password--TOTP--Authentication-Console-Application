@@ -1,0 +1,20 @@
+May 20, 2024 1:05:46 AM com.example.Client main
+INFO: User testuser authenticated successfully.
+May 20, 2024 1:12:14 AM com.example.Client main
+INFO: User testuser authenticated successfully.
+May 20, 2024 1:15:01 AM com.example.Client main
+INFO: User testuser authenticated successfully.
+May 20, 2024 1:19:59 AM com.example.Client main
+WARNING: User testuser failed to authenticate.
+May 20, 2024 1:23:09 AM com.example.Client main
+WARNING: User testuser failed to authenticate.
+May 20, 2024 1:24:38 AM com.example.Client main
+WARNING: User testuser failed to authenticate.
+May 20, 2024 1:35:11 AM com.example.Client main
+INFO: User testuser authenticated successfully.
+May 20, 2024 11:32:05 AM com.example.Client main
+INFO: User testuser authenticated successfully.
+May 20, 2024 11:32:43 AM com.example.Client main
+WARNING: User testuser failed to authenticate.
+May 20, 2024 12:37:11 PM com.example.Client main
+INFO: User testuser authenticated successfully.
