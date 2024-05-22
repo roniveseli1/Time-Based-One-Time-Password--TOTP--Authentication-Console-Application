@@ -32,3 +32,11 @@ Sherbimet e emailit: Mbron llogarite e emailit nga qasjet e paautorizuara, veça
 Platformat Cloud: Siguron qasje te sigurt ne burime te ndryshme cloud, duke mbrojtur te dhenat e ruajtura dhe aplikacionet.
 Aplikacionet e Shendetesise elektronike: Mbron informacionin e ndjeshem shendetesor, duke siguruar qe vetem personeli i autorizuar ka qasje ne te dhenat e pacienteve.
 Sistemet e Menaxhimit te Identitetit dhe Qasjes (IAM): Perdoret per te rritur sigurine ne proceset e identifikimit dhe autorizimit ne infrastruktura korporative.
+
+
+
+Serveri:
+![Server](https://github.com/roniveseli1/Time-Based-One-Time-Password--TOTP--Authentication-Console-Application/assets/148273893/0833b675-363c-4c00-b2fe-78e70859aca3)
+
+Klienti:
+![client](https://github.com/roniveseli1/Time-Based-One-Time-Password--TOTP--Authentication-Console-Application/assets/148273893/b6405976-1b84-41f0-afa6-f5e1e24947e5)
