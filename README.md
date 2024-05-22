@@ -34,6 +34,7 @@ Aplikacionet e Shendetesise elektronike: Mbron informacionin e ndjeshem shendete
 Sistemet e Menaxhimit te Identitetit dhe Qasjes (IAM): Perdoret per te rritur sigurine ne proceset e identifikimit dhe autorizimit ne infrastruktura korporative.
 
 
+<<<<<<< HEAD
 Udhëzues i Detajuar për Ekzekutimin e Programit:
 
 Running the Server:
@@ -50,3 +51,11 @@ Kur të kërkohet, shkruani emrin tuaj të përdoruesit në promptin e dhënë.
 Përdorni aplikacionin Google Authenticator ose një të ngjashëm për të gjeneruar një kod TOTP, duke përdorur çelësin sekret JBSWY3DPEHPK3PXP.
 Shtypni kodin TOTP që keni gjeneruar kur të ju kërkohet.
 Klienti më pas do të dërgojë kërkesën e autentifikimit në server dhe do të tregojë përgjigjen e marrë nga serveri.
+=======
+
+Serveri:
+![Server](https://github.com/roniveseli1/Time-Based-One-Time-Password--TOTP--Authentication-Console-Application/assets/148273893/0833b675-363c-4c00-b2fe-78e70859aca3)
+
+Klienti:
+![client](https://github.com/roniveseli1/Time-Based-One-Time-Password--TOTP--Authentication-Console-Application/assets/148273893/b6405976-1b84-41f0-afa6-f5e1e24947e5)
+>>>>>>> a7761003751544f2eebf614413f5b153b92f7af8
