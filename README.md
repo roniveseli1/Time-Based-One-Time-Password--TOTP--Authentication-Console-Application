@@ -32,3 +32,21 @@ Sherbimet e emailit: Mbron llogarite e emailit nga qasjet e paautorizuara, veça
 Platformat Cloud: Siguron qasje te sigurt ne burime te ndryshme cloud, duke mbrojtur te dhenat e ruajtura dhe aplikacionet.
 Aplikacionet e Shendetesise elektronike: Mbron informacionin e ndjeshem shendetesor, duke siguruar qe vetem personeli i autorizuar ka qasje ne te dhenat e pacienteve.
 Sistemet e Menaxhimit te Identitetit dhe Qasjes (IAM): Perdoret per te rritur sigurine ne proceset e identifikimit dhe autorizimit ne infrastruktura korporative.
+
+
+Udhëzues i Detajuar për Ekzekutimin e Programit:
+
+Running the Server:
+
+Sigurohuni që dosja e arkivit të çelësave të serverit, e quajtur server.keystore, të jetë vendosur brenda direktorisë kryesore të projektit.
+Nisni serverin duke përdorur komandën specifike që është caktuar më herët.
+Pas nisjes, serveri do të jetë i gatshëm dhe do të pranojë kërkesa të autentifikimit në portën 8080.
+
+Running the Client:
+
+Sigurohuni që dosja e arkivit të besimit të klientit, e quajtur clienttruststore.jks, të ndodhet në direktorinë e projektit.
+Ekzekutoni klientin duke përdorur komandën e paracaktuar që është dhënë më herët.
+Kur të kërkohet, shkruani emrin tuaj të përdoruesit në promptin e dhënë.
+Përdorni aplikacionin Google Authenticator ose një të ngjashëm për të gjeneruar një kod TOTP, duke përdorur çelësin sekret JBSWY3DPEHPK3PXP.
+Shtypni kodin TOTP që keni gjeneruar kur të ju kërkohet.
+Klienti më pas do të dërgojë kërkesën e autentifikimit në server dhe do të tregojë përgjigjen e marrë nga serveri.
